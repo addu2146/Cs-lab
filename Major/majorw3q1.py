@@ -1,0 +1,5 @@
+a1=int(input("enter first integer :"))
+a2=int(input("enter second integer :"))
+a3=int(input("enter third integer:"))
+print("sum of three integers is :"+str(a1+a2+a3))
+print("multiply of three integers is :" +str(a1*a2*a3))
