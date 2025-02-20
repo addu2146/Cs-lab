@@ -1,2 +1,2 @@
 # Cs-lab
-Sem v
+# Sem 6
